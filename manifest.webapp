@@ -5,7 +5,7 @@
     "developer": {
         "name": "DoAT",
         "url": "http://everything.me/"
-    },
+    },dfb
     "permissions": {
         "device-storage": {
             "description": "Required to add imags from the Gallery app into notes",
