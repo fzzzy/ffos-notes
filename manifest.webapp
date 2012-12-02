@@ -9,7 +9,7 @@
     "permissions": {
         "device-storage": {
             "description": "Required to add imags from the Gallery app into notes",
-            "access": "readonly
+            "access": "readonly"
         }
     },
     "appcache_path": "/notes.appcache",
